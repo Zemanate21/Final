@@ -6,7 +6,7 @@ const connection = mysql.createConnection({
     user: 'root',       // Usuario de MySQL
     password:'r00t1234', // Contraseña de MySQL
     database: 'biblioteca_gestion', // Nombre de la base de datos
-    port: 3306                 // Cambia si usas otro puerto
+    port: 5500                 
 });
 
 // Verificar conexión

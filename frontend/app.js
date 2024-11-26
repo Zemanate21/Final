@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:5500'; // Asegúrate de que este sea el puerto correcto para tu API
+const apiUrl = 'http://localhost:5500'; 
 
 // Función para cargar los datos de cada sección
 function loadData(url, tableId) {
